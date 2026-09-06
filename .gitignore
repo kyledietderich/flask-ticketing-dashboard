@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Local database (created automatically on first run by init_db())
+*.db
+*.db.bak
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
